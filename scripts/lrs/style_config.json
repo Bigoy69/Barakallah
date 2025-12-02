@@ -75,7 +75,7 @@
             "text_encoder_lr": 8.26e-05,
             "min_snr_gamma": 5,
             "train_batch_size": 4,
-            "max_train_epochs": 25,
+            "max_train_epochs": 5,
             "network_alpha": 32,
             "network_dim": 32,
             "network_args": [
@@ -239,8 +239,8 @@
             ]
         },
         "7d6474f05dc6940ad31182d1359e7f6390dfa92a0cbae20597bfd86d415bd0fd": {
-            "unet_lr": 1.652e-05,
-            "text_encoder_lr": 1.652e-06,
+            "unet_lr": 0.000940500,
+            "text_encoder_lr": 9.405000000000001e-05,
             "min_snr_gamma": 8,
             "train_batch_size": 5,
             "max_train_epochs": 25,
